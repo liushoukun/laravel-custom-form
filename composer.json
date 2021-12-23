@@ -8,7 +8,7 @@
             "email": "liushoukumn66@gmail.com"
         }
     ],
-    "homepage": "https://github.com/dawn/customform",
+    "homepage": "https://github.com/liushoukun/laravel-custom-form",
     "keywords": ["Laravel", "CustomForm"],
     "require": {
         "illuminate/support": "~5|~6|~7|~8"
